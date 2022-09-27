@@ -50,5 +50,6 @@
     <scm>
         <url>https://github.com/Abhishek-R09/pet-clinic</url>
         <connection>scm:git:https://github.com/Abhishek-R09/pet-clinic.git</connection>
+    <tag>pet-clinic-0.0.1</tag>
   </scm>
 </project>

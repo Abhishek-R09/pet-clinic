@@ -48,7 +48,7 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:https://github.com/Abhishek-R09/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.1</tag>
+        <url>https://github.com/Abhishek-R09/pet-clinic</url>
+        <connection>scm:git:https://github.com/Abhishek-R09/pet-clinic.git</connection>
   </scm>
 </project>
